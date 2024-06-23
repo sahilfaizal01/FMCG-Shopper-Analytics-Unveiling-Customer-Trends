@@ -22,3 +22,10 @@ This is a B2C (Business-to-customer) project ie; clients of our business and ind
 * What product characteristics do the custoners from a certain segment need?
 * Shows how a product should be **presented** to the customers and through what **channel**
 * In fact, this process is so important, that it has a framework of its own called **Marketing Mix**
+
+## Marketing Mix
+* A typical categorisation of sales promotions, also known as merchandising, is: price reduction, display and feature
+
+## Price Elasticity
+* Price elasticity is the percentage change in an economic outcome of interest with respect to one percentage change in a respective price
+* It is expected that the units sold from a brand would increase if the unit price of the brand decreases and would increase if the unit price of a competitor brand increases

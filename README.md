@@ -23,7 +23,8 @@ This is a B2C (Business-to-customer) project ie; clients of our business and ind
 * Shows how a product should be **presented** to the customers and through what **channel**
 * In fact, this process is so important, that it has a framework of its own called **Marketing Mix**
 
-## Marketing Mix
+## Marketing Mix (a Positioning framework)
+* Develop the best product or service and offer it at the right price through the right channels
 * A typical categorisation of sales promotions, also known as merchandising, is: price reduction, display and feature
 
 ## Price Elasticity

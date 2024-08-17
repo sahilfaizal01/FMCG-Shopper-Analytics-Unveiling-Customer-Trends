@@ -30,3 +30,8 @@ This is a B2C (Business-to-customer) project ie; clients of our business and ind
 ## Price Elasticity
 * Price elasticity is the percentage change in an economic outcome of interest with respect to one percentage change in a respective price
 * It is expected that the units sold from a brand would increase if the unit price of the brand decreases and would increase if the unit price of a competitor brand increases
+
+## Purchase Analytics
+* Purchase probability
+* Probability for brand choice
+* Purchase quantity
